@@ -4,7 +4,7 @@
 
 AudoCode v0.1 By R.Hasaranga.
 
-AutoCode is an OpenAI based Python code generator. You can enter the requirement and this tool will generate the related python code. Generated code is not always the right one. You may have to generate multiple times to get a working code. Always check the code before you run it! Closing the code window will stop the running script.
+AutoCode is an OpenAI based desktop tool generator. You can enter the requirement and this tool will generate the related python code. Generated code is not always the right one. You may have to generate multiple times to get a working code. Always check the code before you run it! Closing the code window will stop the running script.
 
 This tool is useful for generating simple desktop utilities.
 
