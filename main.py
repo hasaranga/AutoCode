@@ -1,5 +1,6 @@
 
 # AutoCode v0.1 By R.Hasaranga
+# https://github.com/hasaranga/AutoCode
 
 from tkinter import *
 from tkinter.messagebox import *
@@ -139,7 +140,7 @@ def onSaveTextPress(textArea):
     return
 
 def onAboutPress():
-    showinfo("About","AutoCode v0.1\nBy Ruchira Hasaranga.\nhttps://www.hasaranga.com")
+    showinfo("About","AutoCode v0.1\nBy Ruchira Hasaranga.\nhttps://github.com/hasaranga/AutoCode")
     return
 
 def process_queue(window, fileMenu, taskQueue):
